@@ -388,14 +388,14 @@ footer {
         padding: 0;
     }
 
-    #team > div {
+    #team div {
         width: 100%;
         clear: both;
         height: 100%;
         padding: 0;
     }
 
-    #teamTitle > div {
+    #teamTitle div {
         width: 100%;
         clear: both;
         height: 75px;
@@ -439,7 +439,7 @@ footer {
 
     .left-about-heading p, .right-about-heading p {
         text-align: center;
-        padding: 0 20px;
+        padding: 0 15px 0 15px;
     }
 
     #center-about {
@@ -451,7 +451,7 @@ footer {
     }
 
     #image {
-        column-count: 3;
+        column-count: 2;
             }
         }
 
@@ -466,6 +466,6 @@ footer {
 
 @media screen and (max-width: 800px) {
     #image {
-        column-count: 2;
+        column-count: 1;
             }
         }
