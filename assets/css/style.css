@@ -388,7 +388,7 @@ footer {
         padding: 0;
     }
 
-    #team div {
+    #OurTeam div {
         width: 100%;
         clear: both;
         height: 100%;
@@ -413,9 +413,9 @@ footer {
     #menu {
         clear: left;
         float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
+        margin-left: 32px;
+        margin-bottom: 22px;
+        line-height: 26px;
     }
 
     #cover-text {
@@ -455,7 +455,7 @@ footer {
             }
         }
 
-    #team > div {
+    #OurTeam div {
         width: 33%;
         clear: both;
         height: 50px;
