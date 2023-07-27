@@ -467,5 +467,7 @@ footer {
 @media screen and (max-width: 800px) {
     #image {
         column-count: 1;
+        margin-left: 15%;
+        margin-right: %%;
             }
         }
