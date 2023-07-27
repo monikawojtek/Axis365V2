@@ -241,9 +241,7 @@ hr {
 }
 
 .img1 {
-    border-radius: 10px;
-
-    
+    border-radius: 10px;  
   }
   
   .clearfix::after {
@@ -263,7 +261,6 @@ hr {
     margin: 1%;
     margin-left: 1%;
     margin-right: 1%;
-   
 }
 
 #image > img {
@@ -277,7 +274,7 @@ hr {
 
 .form-section {
     clear: left;
-    background: url("/assets/images/Tipperary2.jpeg");
+    background: url("/assets/images/Tipperary.jpg");
     background-size: cover;
     background-position: center;
     height: 900px;
@@ -388,14 +385,14 @@ footer {
         padding: 0;
     }
 
-    #OurTeam div {
+    #team > div {
         width: 100%;
         clear: both;
         height: 100%;
         padding: 0;
     }
 
-    #teamTitle div {
+    #teamTitle > div {
         width: 100%;
         clear: both;
         height: 75px;
@@ -413,9 +410,9 @@ footer {
     #menu {
         clear: left;
         float: left;
-        margin-left: 32px;
-        margin-bottom: 22px;
-        line-height: 26px;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
     }
 
     #cover-text {
@@ -439,7 +436,7 @@ footer {
 
     .left-about-heading p, .right-about-heading p {
         text-align: center;
-        padding: 0 15px 0 15px;
+        padding: 0 20px;
     }
 
     #center-about {
@@ -451,11 +448,14 @@ footer {
     }
 
     #image {
-        column-count: 2;
+        column-count: 3;
+        line-height: auto;
+        column-count: auto;
+        column-gap: auto;
             }
         }
 
-    #OurTeam div {
+    #team > div {
         width: 33%;
         clear: both;
         height: 50px;
