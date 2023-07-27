@@ -442,7 +442,6 @@ footer {
         clear: both;
         width: 50%;
         height: 50%;
-        float: left;
         padding: 0px;
     }
 
@@ -472,8 +471,8 @@ footer {
         
 
     .img1{
-        height: fit-content;
-        width: fit-content;
+        height: 150px;
+        width: 150px;
         }
 
     #cover-text{
