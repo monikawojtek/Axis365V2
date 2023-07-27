@@ -244,7 +244,7 @@ hr {
     border-radius: 10px;  
   }
   
-  .clearfix::after {
+.clearfix::after {
     content: "";
     clear: both;
     display: table;
@@ -274,7 +274,7 @@ hr {
 
 .form-section {
     clear: left;
-    background: url("/assets/images/Tipperary.jpg");
+    background: url('../images/Tipperary.jpg');
     background-size: cover;
     background-position: center;
     height: 900px;
@@ -353,7 +353,6 @@ footer {
     
     color: rgba(36, 36, 36, 0.9);
 }
-
 
 
 
@@ -467,7 +466,18 @@ footer {
 @media screen and (max-width: 800px) {
     #image {
         column-count: 1;
-        margin-left: 15%;
-        margin-right: %%;
+        margin-left: 7%;
+        margin-right: 5%;
             }
+        
+
+    .img1{
+        height: fit-content;
+        width: fit-content;
         }
+
+    #cover-text{
+        width: fit-content;
+        height: fit-content;
+        }
+    }
