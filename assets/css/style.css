@@ -447,9 +447,7 @@ footer {
 
     #image {
         column-count: 3;
-        line-height: auto;
         column-count: auto;
-        column-gap: auto;
         margin-left: 10%;
         margin-right: 5%;
         }
