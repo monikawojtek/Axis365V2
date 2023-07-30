@@ -2,38 +2,63 @@
 
 Welcome,
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+This is proposed website for Axis365 – property development company and develops Primary Care centres in Ireland and offers reliability services in United States. 
+It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential customers.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+![image](https://github.com/monikawojtek/Axis365V2/assets/134314429/cb000470-dcd8-4614-a20b-ed84511223d7)
 
-## Codeanywhere Reminders
+ 
+User Experience (UX)
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+•	User stories
 
-`python3 -m http.server`
+o	First Time Visitor Goals
+a.	As a First Time Visitor 
+	Understand the main purpose of the site and learn more about the company’s activities and facts.
+	easily navigate throughout the site to find content.
+	Find links to social media to see their followings and activity on social media.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+o	Returning Visitor Goals
+a.	As a Returning Visitor, 
+	find information about services that the company provides.
+	find information/pictures about past project that this company delivered to date.
+	find the easiest way to get in contact with the organisation with any queries I may have.
+o	Frequent User Goals
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+a.	As a Frequent User, 
+	check to see if there are any newly added projects on to the website.
 
-`http_server`
+Design
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+  o	Colour Scheme
+  a.	The three main colours used are Axis365 grey, white and blue.
+  o	Typography
+  a.	The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+  o	Imagery
+  a.	All the images used on the website are from pass projects that Axis365 delivered to date. The emphasise company’s activities and scape of operations.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+Wireframes
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+o	Home Page Wireframe 
 
-To log into the Heroku toolbelt CLI:
+![image](https://github.com/monikawojtek/Axis365V2/assets/134314429/3f44fe00-9976-49fa-851d-1e643a76526b)
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
 
----
+o	Mobile Wireframe 
 
-Happy coding!
+ ![image](https://github.com/monikawojtek/Axis365V2/assets/134314429/d6ebfc7f-290f-47e9-bf85-727eed38dbb7)
+
+o	Contact Us Page Wireframe
+
+  ![image](https://github.com/monikawojtek/Axis365V2/assets/134314429/1869d764-5d88-4ebd-8e88-0ee2751201c4)
+
+
+
+Features
+•	Responsive on all device sizes
+•	Interactive elements
+Existing Features
+•	Navigation Bar
+o	Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery Contact page and is identical in each page to allow for easy navigation.
+o	This section will allow the user to easily navigate from page to page across all devices without having to go back to the previous page via the ‘back’ button.
