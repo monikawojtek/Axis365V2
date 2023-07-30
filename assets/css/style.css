@@ -450,7 +450,8 @@ footer {
         line-height: auto;
         column-count: auto;
         column-gap: auto;
-            }
+        margin-left: 10%;
+        margin-right: 5%;
         }
 
     #team > div {
@@ -469,6 +470,10 @@ footer {
         margin-right: 5%;
             }
     
+
+    #OurTeam div {
+        height: 400px;
+    } 
         
 
     .img1{
@@ -481,3 +486,4 @@ footer {
         height: fit-content;
         }
     }
+}
